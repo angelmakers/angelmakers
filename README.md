@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/GKc_-ZMaYAAsixa?format=jpg&name=small"/>
+  <img src="https://pbs.twimg.com/media/GKc_-ZMaYAAsixa?format=jpg&name=large"/>
 </p>
 <p align="center">
 </p>
